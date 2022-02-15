@@ -58,4 +58,4 @@
 
 ## About
 
-Community members can create issues and tickets under this generic module. Access to "issues" tabl on this page and select "create a new issues" button to create a new ticket.
+Community members can create issues and tickets under this generic module. Access to "issues" tab on this page and select "create a new issues" button to create a new ticket.
